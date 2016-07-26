@@ -1,0 +1,26 @@
+body {
+  padding-top: 200px;
+
+}
+
+#file-load-button {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index:100;
+}
+
+#image-view {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+}
+
+.absolute-canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
